@@ -1,0 +1,272 @@
+{
+    "232IT-ing": {
+        "subjects": {
+            "main_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (seminar)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            },
+            "sub_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (Mühazirə)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "232K-ing": {
+        "subjects": {
+            "main_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (seminar)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            },
+            "sub_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (Mühazirə)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "232it": {
+        "subjects": {
+            "main_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (seminar)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            },
+            "sub_week": {
+                "Monday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "0-subject": {}
+                },
+                "Wednesday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Kompüter diaqnostikası (Mühazirə)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                },
+                "Thursday": {
+                    "2-subject": {
+                        "subject_1": {
+                            "hour": "10:00",
+                            "subject_name": "Riyazi analiz (Seminar)"
+                        },
+                        "subject_2": {
+                            "hour": "11:30",
+                            "subject_name": "Riyazi analiz (Mühazirə)"
+                        }
+                    }
+                },
+                "Friday": {
+                    "1-subject": {
+                        "subject_1": {
+                            "hour": "8:30",
+                            "subject_name": "əməliyyat sistemləri (Mühazirə)"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
